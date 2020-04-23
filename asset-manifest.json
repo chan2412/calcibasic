@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calcibasic/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/calcibasic/static/js/main.b6cf19f6.chunk.js",
+    "main.js.map": "/calcibasic/static/js/main.b6cf19f6.chunk.js.map",
+    "runtime-main.js": "/calcibasic/static/js/runtime-main.c2b19896.js",
+    "runtime-main.js.map": "/calcibasic/static/js/runtime-main.c2b19896.js.map",
+    "static/js/2.e7030bd9.chunk.js": "/calcibasic/static/js/2.e7030bd9.chunk.js",
+    "static/js/2.e7030bd9.chunk.js.map": "/calcibasic/static/js/2.e7030bd9.chunk.js.map",
+    "index.html": "/calcibasic/index.html",
+    "precache-manifest.55907a4f024edc92e00521bf573a8b7b.js": "/calcibasic/precache-manifest.55907a4f024edc92e00521bf573a8b7b.js",
+    "service-worker.js": "/calcibasic/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/calcibasic/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e7030bd9.chunk.js.LICENSE.txt": "/calcibasic/static/js/2.e7030bd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2b19896.js",
+    "static/js/2.e7030bd9.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b6cf19f6.chunk.js"
+  ]
+}
